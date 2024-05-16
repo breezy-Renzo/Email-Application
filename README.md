@@ -1,6 +1,6 @@
 # Simple Email-Application
--This application takes in the user's first and last name and the department they work in
--An email is then generated using the information provided
+-This application has an Email class that generates the objects and an EmailApp class thats runs the application which takes in the user's first and last name and the department they work in.
+-An email is then generated using the information provided.
 -The user is then prompted to a menu where they can:
   -Check profile info.
   -Check what their email is.
